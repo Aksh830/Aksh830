@@ -1,4 +1,10 @@
 ## Hi there 👋
+My name is Aksh Shah.
+
+I am a Data Analyst student
+I'm looking for help with github ;)
+Ask me about an immigrants life in UK.
+
 
 <!--
 **Aksh830/Aksh830** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
