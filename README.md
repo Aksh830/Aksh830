@@ -1,7 +1,8 @@
 ## Hi there 👋
-My name is Aksh Shah.
+My name is <b>Aksh Shah</b>.
 
 I am a Data Analyst student
+
 I'm looking for help with github ;)
 Ask me about an immigrants life in UK.
 
