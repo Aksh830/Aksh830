@@ -3,9 +3,9 @@
 💡 What I Do:
 
 📊 Data Analysis & Visualization → Excel, Power BI, Tableau 
-📝 Scripting & Automation → Python (Pandas, NumPy, Matplotlib) 
-🛢️ Database Management → SQL (MySQL) 
-⚡ Business Reporting → MS Office Suite (Excel, Word)
+<br>📝 Scripting & Automation → Python (Pandas, NumPy, Matplotlib)</br>
+🛢️ Database Management → SQL (MySQL)
+<br>⚡ Business Reporting → MS Office Suite (Excel, Word)</br>
 
 🚀 What Drives Me? I enjoy solving complex problems, optimizing workflows, and building interactive dashboards to uncover trends and insights.
 
